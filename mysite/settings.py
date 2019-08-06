@@ -40,6 +40,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'polls.apps.PollsConfig',
+    'index.apps.IndexConfig',
+    'about.apps.AboutConfig',
+    'album.apps.AlbumConfig',
+    'leacots.apps.LeacotsConfig',
+    'whisper.apps.WhisperConfig',
 ]
 
 
