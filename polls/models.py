@@ -34,7 +34,3 @@ from mongoengine import *
 #     # 指明连接的数据表名
 #     meta = {'collection':'invitation'}
 #
-# # 测试是否连接成功
-#
-# for i in invitation.objects[:10]:
-#         print(i.title)
